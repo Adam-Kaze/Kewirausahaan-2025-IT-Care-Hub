@@ -48,4 +48,4 @@ Di sini, **TechCare Hub** hadir untuk memberikan solusi:
 ## 📺 4. Presentasi Produk (Pitch Deck)
 Simak penjelasan lengkap mengenai potensi bisnis kami melalui video berikut:
 
-[![Video Pitching](https://www.youtube.com/watch?v=ZqB4SV-nMpQ)](LINK_VIDEO_YOUTUBE)
+[![Video Pitching](image.png)](https://www.youtube.com/watch?v=ZqB4SV-nMpQ)
