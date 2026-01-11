@@ -9,6 +9,7 @@
 * **Farell Rakha Rabbani Arian** (4522210096) 
 * **Adam Kaze** (4522210094) 
 * **Muhammad Hendrik Pradana** (4522210127) 
+* **Afandi Ikhsyan Al Karim** (4522210032) 
 
 ---
 
@@ -47,4 +48,4 @@ Di sini, **TechCare Hub** hadir untuk memberikan solusi:
 ## 📺 4. Presentasi Produk (Pitch Deck)
 Simak penjelasan lengkap mengenai potensi bisnis kami melalui video berikut:
 
-[![Video Pitching](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/0.jpg)](LINK_VIDEO_YOUTUBE)
+[![Video Pitching](https://www.youtube.com/watch?v=ZqB4SV-nMpQ)](LINK_VIDEO_YOUTUBE)
